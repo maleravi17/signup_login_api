@@ -1,7 +1,6 @@
 fastapi
 uvicorn
-google-generativeai
 python-dotenv
-PyPDF2
-werkzeug
-python-multipart
+sqlalchemy
+psycopg2-binary
+passlib[bcrypt]
